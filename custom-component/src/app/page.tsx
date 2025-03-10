@@ -1,8 +1,11 @@
-import GalleryBackground from "./components/GllerryBackground";
+import ToggleSlideText from "./components/ToggleSlideText";
 export default function Home() {
   return (
     <div>
-      <GalleryBackground></GalleryBackground>
-    </div>
+      <ToggleSlideText >
+      </ToggleSlideText>
+      </div>
   );
 }
+
+
